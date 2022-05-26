@@ -1,0 +1,54 @@
+.bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-value {
+  height: 45px;
+  width: 45%;
+  padding: 10px;
+}
+
+.isLoader-class {
+  align-self: center;
+  margin-top: 20%;
+}
+
+.ul-class {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-top: 5%;
+}
+
+.failure-page {
+  align-self: center;
+  margin-top: 10%;
+}
+
+.img-failure-class {
+  height: 200px;
+}
+
+.failure-header {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+}
+
+.failure-paragraph {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.button-class {
+  width: 110px;
+  height: 35px;
+  background-color: #328af2;
+  color: #ffffff;
+}
